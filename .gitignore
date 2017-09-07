@@ -1,0 +1,9 @@
+/.idea
+/test
+/target
+*.iml
+/soa-parent/target/
+/soa-parent/soa-common/soa-common-core/target/
+/soa-parent/soa-consumer-web/target/
+/soa-parent/soa-user/soa-user-api/target/
+/soa-parent/soa-user/soa-user-core/target/
