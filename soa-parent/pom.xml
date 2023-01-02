@@ -29,7 +29,7 @@
 		<logback.version>1.1.1</logback.version>
 		<!-- json -->
 		<jackson-databind.version>2.3.4</jackson-databind.version>
-		<jettison.version>1.2</jettison.version>
+		<jettison.version>1.5.2</jettison.version>
 		<codehaus-jackson.version>1.9.2</codehaus-jackson.version>
 		<!-- mysql -->
 		<mysql.version>5.1.35</mysql.version>
